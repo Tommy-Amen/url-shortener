@@ -29,5 +29,5 @@ _Deployment Link:_
 ## Author
 
 - _Name:_ Thomas Amenlemah
-- _GitHub:_ <https://github.com/tommyamen>
+- _GitHub:_ <https://github.com/Tommy-Amen>
 - _Email:_ thomas.amenlemah@amalitech.org
